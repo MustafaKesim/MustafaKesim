@@ -116,7 +116,7 @@ make clean
 ## **Project Structure**
 - `main.c`: The source code for the game.
 - `Makefile`: Automates the compilation process.
-- `savegame.dat`: File used to store saved game data.
+- `savegame`: File used to store saved game data.
 
 ---
 
